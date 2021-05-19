@@ -1,6 +1,6 @@
 ### Hi there, I'm DEAR!! 👋
 
-![Intro]("./image/intro.gif")
+![Intro](https://i.ibb.co/8jd30vx/codingwithcoffee.gif)
 
 
 
