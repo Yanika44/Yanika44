@@ -8,6 +8,11 @@
  :triangular_flag_on_post: My goal is to work on job in IT or design <br>
 <br />
 
+<h3 align="center">:file_folder: Contact :open_file_folder:</h3> 
+<br>
+
+<a href="https://www.facebook.com/yani.dear.3"><img src="./image/facebook.png" width="80" height="80" /></a>&emsp;<a href="./gmail.txt"><img src="./image/gmail.png"  width="80" height="80" /></a>&emsp;
+<a href="https://www.instagram.com/xzawakezx/"><img src="./image/instagram.png"  width="80" height="80" /></a>&emsp;
 
 <h3 align="center">:file_folder: Computer's languages that I'm learning :open_file_folder:</h3> 
 <br>
