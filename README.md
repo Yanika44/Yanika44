@@ -5,6 +5,6 @@
 
 [![Xzawakezx's github stats](https://github-readme-stats.vercel.app/api?username=yanika44&theme=material-palenight)](https://github.com/yanika44/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanika44&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanika44&theme=tokyonight)
 
 
