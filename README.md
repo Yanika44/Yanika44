@@ -10,8 +10,8 @@
 
 <<<<<<< HEAD
 <h3 align="center">:file_folder: Computer's language that can I'm coding :open_file_folder:</h3>
-<img src="./image/css.png" /><img src="./image/html-5.png" /><img src="./image/java.png" /><img src="./image/javascript.png" />
-<img src="./image/mysql.png" /><img src="./image/python.png" /><img src="./image/ruby.png" /><img src="./image/vue.png" />
+<img src="./image/css.png" width="100" height="100" /><img src="./image/html-5.png" /><img src="./image/java.png" /><img src="./image/javascript.png" />
+<img src="./image/mysql.png" /><img src="./image/python.png" /><img src="./image/ruby.png" />
 <img src="./image/vue.png" /><img src="./image/tailwind.png" />
 =======
 <h3 align="center">:file_folder: Computer's language that can I'm learning :open_file_folder:</h3>
