@@ -9,7 +9,7 @@
 <br />
 
 
-<h3 align="center">:file_folder: Computer's language that can I'm coding :open_file_folder:</h3> 
+<h3 align="center">:file_folder: Computer's language that can I'm learning :open_file_folder:</h3> 
 <br>
 
 <img src="./image/css.png" width="80" height="80" />&emsp;<img src="./image/html-5.png"  width="80" height="80" />&emsp;
