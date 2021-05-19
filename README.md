@@ -22,7 +22,7 @@
 <h3 align="center">:mag_right: Programs that I use :mag:</h3> 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./image/intellij.png" width="80" height="80" />&emsp;<img src="./image/netbean.png"  width="80" height="80" />&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./image/intellij.png" width="80" height="80" />&emsp;<img src="./image/netbean.png"  width="80" height="80" />&emsp;
 <img src="./image/eclips.png"  width="80" height="80" />&emsp;
 <img src="./image/vscode.png"  width="80" height="80"/>&emsp;
 <img src="./image/sql.png"  width="80" height="80"/>&emsp;<img src="./image/python.png"  width="80" height="80"/>&emsp;<img src="./image/mysql.png"  width="80" height="80"/>
