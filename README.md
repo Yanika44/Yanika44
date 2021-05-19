@@ -8,7 +8,7 @@
  :triangular_flag_on_post: My goal is to work on job in IT or design <br>
 <br />
 
-<h3 align="center">:file_folder: Computer's language that can I'm coding :open_file_folder:</h3>
+<h3 align="center">:file_folder: Computer's language that can I'm learning :open_file_folder:</h3>
 <br />
 
 
