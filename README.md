@@ -12,10 +12,11 @@
 <h3 align="center">:file_folder: Computer's language that can I'm coding :open_file_folder:</h3> 
 <br>
 
-<img src="./image/css.png" width="80" height="80" /><img src="./image/html-5.png"  width="80" height="80" /><img src="./image/java.png"  width="80" height="80" />
-<img src="./image/javascript.png"  width="80" height="80"/>
-<img src="./image/mysql.png"  width="80" height="80"/><img src="./image/python.png"  width="80" height="80"/><img src="./image/ruby.png"  width="80" height="80"/>
-<img src="./image/vue.png"  width="80" height="80"/><img src="./image/tailwind.png"  width="80" height="80"/>
+<img src="./image/css.png" width="80" height="80" />&emsp;<img src="./image/html-5.png"  width="80" height="80" />&emsp;
+<img src="./image/java.png"  width="80" height="80" />&emsp;
+<img src="./image/javascript.png"  width="80" height="80"/>&emsp;
+<img src="./image/mysql.png"  width="80" height="80"/>&emsp;<img src="./image/python.png"  width="80" height="80"/>&emsp;<img src="./image/ruby.png"  width="80" height="80"/>
+&emsp;<img src="./image/vue.png"  width="80" height="80"/>&emsp;<img src="./image/tailwind.png"  width="80" height="80"/>
 
 
 
