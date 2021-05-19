@@ -12,7 +12,7 @@
 <h3 align="center">:file_folder: Computer's language that can I'm coding :open_file_folder:</h3> 
 <br>
 
-<img src="./image/css.png" width="100" height="100" /><img src="./image/html-5.png"  width="100" height="100" /><img src="./image/java.png"  width="100" height="100" />
+<img src="./image/css.png" width="70" height="70" /><img src="./image/html-5.png"  width="100" height="100" /><img src="./image/java.png"  width="100" height="100" />
 <img src="./image/javascript.png"  width="100" height="100"/>
 <img src="./image/mysql.png"  width="100" height="100"/><img src="./image/python.png"  width="100" height="100"/><img src="./image/ruby.png"  width="100" height="100"/>
 <img src="./image/vue.png"  width="100" height="100"/><img src="./image/tailwind.png"  width="100" height="100"/>
