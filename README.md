@@ -17,7 +17,7 @@
 <h3 align="center">:file_folder: Computer's languages that I'm learning :open_file_folder:</h3> 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./image/css.png" width="80" height="80" />&emsp;<img src="./image/html-5.png"  width="80" height="80" />&emsp;
+&emsp;&emsp;&emsp;&emsp;<img src="./image/css.png" width="80" height="80" />&emsp;<img src="./image/html-5.png"  width="80" height="80" />&emsp;
 <img src="./image/java.png"  width="80" height="80" />&emsp;
 <img src="./image/javascript.png"  width="80" height="80"/>&emsp;
 <img src="./image/mysql.png"  width="80" height="80"/>&emsp;<img src="./image/python.png"  width="80" height="80"/>
