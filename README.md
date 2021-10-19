@@ -110,7 +110,7 @@
         <img height="64px" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/data-modeler-200-2368789.png">
         <br><span>Oracle Data Modeler</span>
       </td>
-      <td width="28%" align="center">
+      <td width="30%" align="center">
         <img height="64px" src="https://afiliado.io/images/pages/press/sketch-press-kit/app-icons/sketch-mirror-icon%402x.png">
         <br><span>Sketch</span>
       </td>
