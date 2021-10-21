@@ -9,7 +9,7 @@
       - Frontend Developer
       - Data Analyst
 #### Contact
-* Email: yanika@mail.kmutt.ac.th
+* Email: pyanika.pu@gmail.com
 * Linkedin: [linkedin.com/in/yanika-putorn-250737205](https://www.linkedin.com/in/yanika-putorn-250737205)
 
 <br>
