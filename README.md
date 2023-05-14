@@ -6,8 +6,8 @@
 #### Interested
       - UX / UI Designer
       - Web Designer
+      - Business Analyst
       - Frontend Developer
-      - Data Analyst
 #### Contact
 * Email: pyanika.pu@gmail.com
 * Linkedin: [linkedin.com/in/yanika-putorn-250737205](https://www.linkedin.com/in/yanika-putorn-250737205)
