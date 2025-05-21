@@ -1,4 +1,4 @@
-# Hi, I'm Yanika Putorn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Yanika Phuthon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- font: century gothic -->
 #### Education 
